@@ -1,4 +1,4 @@
-# Worldwise
+# Redux Bank App
 This is a simple banking app that demonstrates use of Redux for state management. It is one of the apps that you build with React course that is available on Udemy (https://www.udemy.com/course/the-ultimate-react-course). Props to <a href="https://jonas.io/" target="_blank" rel="noreferrer noopener">Jonas Schmedtmann</a>.
 
 
